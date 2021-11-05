@@ -2,21 +2,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;about me </h3>
 
-- 🔭 &nbsp; i’m currently working on constructing a marketing funnel for a soon-to-be-launched plg product
-- 💼 &nbsp; i'm currently working as a business intelligence analyst at Predictive Index
-
+- 🔭 &nbsp; i’m currently working on <code>constructing a marketing funnel</code> for a soon-to-be-launched plg product
+- 💼 &nbsp; i'm currently working as a business intelligence analyst at <code>Predictive Index</code>
 - 🌱 &nbsp; i’m currently learning <code>natural language processing</code> & <code>sentiment analysis</code>
-
 - 👯 &nbsp; i’m looking to collaborate on projects related to <code>product development</code>, <code>plg</code>, and <code>marketing analytics</code>
-
 - 🤔 &nbsp; i’m looking for help with <code>growing my audience</code> and <code>launching online courses</code>
-
 - 💬 &nbsp; ask me about my <code>travels</code>
-
 - 😄 &nbsp; pronouns: <code>he/him</code>
-
 - ⚡ &nbsp; fun fact: back in high school, i used to live in Asia and went to school in Europe. my commute was about 20 minutes.
-
 - ✍️ &nbsp; i'm always pursuing <code>leadership</code> and <code>coaching</code>
 
 
