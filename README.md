@@ -1,15 +1,15 @@
 <h2> hello. i'm Oz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;about me </h3>
-- 🔭 i’m currently working on constructing a marketing funnel for a soon-to-be-launched plg product
-- 💼 i'm currently working as a business intelligence analyst at Predictive Index
-- 🌱 i’m currently learning natural language processing & sentiment analysis
-- 👯 i’m looking to collaborate on projects related to product development, plg, and marketing analytics
-- 🤔 i’m looking for help with growing my audience and launching online courses
-- 💬 ask me about my travels
-- 😄 pronouns: he/him
-- ⚡ fun fact: back in high school, i used to live in Asia and went to school in Europe. my commute was about 20 minutes.
-- ✍️ i'm always pursuing leadership and coaching
+- 🔭 nbsp& i’m currently working on constructing a marketing funnel for a soon-to-be-launched plg product
+- 💼 nbsp& i'm currently working as a business intelligence analyst at Predictive Index
+- 🌱 nbsp& i’m currently learning natural language processing & sentiment analysis
+- 👯 nbsp& i’m looking to collaborate on projects related to product development, plg, and marketing analytics
+- 🤔 nbsp& i’m looking for help with growing my audience and launching online courses
+- 💬 nbsp& ask me about my travels
+- 😄 nbsp& pronouns: he/him
+- ⚡ nbsp& fun fact: back in high school, i used to live in Asia and went to school in Europe. my commute was about 20 minutes.
+- ✍️ nbsp& i'm always pursuing leadership and coaching
 
 <h3> 🛠 &nbsp;tech stack</h3>
 
