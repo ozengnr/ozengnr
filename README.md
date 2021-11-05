@@ -17,7 +17,7 @@
 
 - ⚡ &nbsp; fun fact: back in high school, i used to live in Asia and went to school in Europe. my commute was about 20 minutes.
 
-- ✍️ &nbsp; i'm always pursuing leadership and coaching
+- ✍️ &nbsp; i'm always pursuing <code>leadership</code> and coaching
 
 
 <h3> 🛠 &nbsp;tech stack</h3>
