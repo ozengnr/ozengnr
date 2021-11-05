@@ -1,6 +1,7 @@
 <h2> hello. i'm Oz.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;about me </h3>
+
 - 🔭 &nbsp; i’m currently working on constructing a marketing funnel for a soon-to-be-launched plg product
 
 - 💼 &nbsp; i'm currently working as a business intelligence analyst at Predictive Index
