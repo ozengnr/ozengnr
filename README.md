@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; i’m currently working on <code>constructing a marketing funnel</code> for a soon-to-be-launched plg product
 - 💼 &nbsp; i'm currently working as a business intelligence analyst at <code>Predictive Index</code>
-- 🌱 &nbsp; i’m currently learning <code>how to set up up a data warehouse with the help of Python</code>
+- 🌱 &nbsp; i’m currently learning <code>how to set up a data warehouse with the help of Python</code>
 - 👯 &nbsp; i’m looking to collaborate on projects related to <code>product development</code>, <code>plg</code>, and <code>marketing analytics</code>
 - 🤔 &nbsp; i’m looking for help with <code>growing my audience</code> and <code>launching online courses</code>
 - 💬 &nbsp; ask me about my <code>travels</code>
